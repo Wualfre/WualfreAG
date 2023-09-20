@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Wualfre</h1>
-<h3 align="center">Soy un diseñador UI/UX/desarrollador front-end radicado en México con experiencia en la industria del software. He trabajado en diferentes proyectos con un entorno de desarrollo basado en Angular, HTML y Python. También tengo experiencia diseñando e integrando aplicaciones web utilizando herramientas como GitHub, Notion, Slack y Jira. Además, me gusta trabajar en equipo y disfruto escribiendo blogs sobre las cosas que estoy aprendiendo.</h3>
+<h3 align="center">Soy un diseñador UI/UX desarrollador / front-end radicado en México con experiencia en la industria del software. He trabajado en diferentes proyectos con un entorno de desarrollo basado en Angular, HTML y Python. También tengo experiencia diseñando e integrando aplicaciones web utilizando herramientas como GitHub, Notion, Slack y Jira. Además, me gusta trabajar en equipo y disfruto escribiendo blogs sobre las cosas que estoy aprendiendo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username= wualfreag&label=Profile%20views&color=0e75b6&style=flat" alt="wualfreag" /> </p> <
 
